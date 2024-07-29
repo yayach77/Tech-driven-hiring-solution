@@ -1,3 +1,3 @@
 # Tech-driven-hiring-solution
 Revolutionize hiring with tech powered video interview solutions
-https://incruiter.com/
+https://incruiter.com/video-interview-software
